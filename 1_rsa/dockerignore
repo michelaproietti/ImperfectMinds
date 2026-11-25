@@ -1,0 +1,6 @@
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+.git/
+*.gif
+*.mp4
